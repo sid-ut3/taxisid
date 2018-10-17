@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_id": "taxisid-9c067",
+    "project_number": "126667681785",
+    "name": "taxisid"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126667681785:android:19a61c7b0a321169",
+        "client_id": "android:fr.univ_tlse3.taxisid",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "fr.univ_tlse3.taxisid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#FFFEC418</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="libre">#009900</color>
+    <color name="occupe">#EE0000</color>
+    <color name="pause">#3F51B5</color>
+    <color name="noir">#000000</color>
+    <color name="fond_selectionner">#CDEDE7</color>
+    <color name="fond_non_selectionner">#FFFFFF</color>
+    <color name="accent_material_light">#fec418</color>
+    <color name="black">#ffffff</color>
+
+</resources>
